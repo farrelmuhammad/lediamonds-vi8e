@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.icons {
+  color: #9B622F;
+}
+
+.content {
+  justify-content: center;
+}
+
+.cat-1 {
+  background: url("./assets/images/bg-1.png");
+  height: 390px;
+  width: 636px;
+}
+
+.cat-1 img {
+  justify-content: center;
+  width: 350px;
+  height: 350px;
+  margin-top: 1.5rem;
+}
+
+.cat-2 {
+  background: url("./assets/images/bg-2.png");
+  height: 390px;
+  width: 636px;
+}
+
+.cat-2 img {
+  width: 100%;
+}
+
+.cat-3 {
+  background: url("./assets/images/bg-3.png");
+  height: 390px;
+  width: 636px;
+}
+
+.cat-3 img {
+  width: 100%;
+}
+
+.cat-4 {
+  background: url("./assets/images/bg-4.png");
+  height: 390px;
+  width: 636px;
+}
+
+.cat-4 img {
+  justify-content: center;
+  width: 350px;
+  height: 350px;
+  margin-top: 1.5rem;
+}
+
+.cat-5 {
+  background: url("./assets/images/bg-5.png");
+  height: 390px;
+  width: 636px;
+}
+
+.cat-5 img {
+  width: 100%;
+}
+
+.hero-content img {
+  position: absolute;
+  width: 400px;
+  height: 560.68px;
+  left: 883px;
+  top: 1669px;
+}
